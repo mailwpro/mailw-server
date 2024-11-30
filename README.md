@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://stalw.art">
+    <a href="https://mailw.pro">
     <img src="./img/logo-red.svg" height="150">
     </a>
 </p>
