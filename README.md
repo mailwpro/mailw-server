@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://mailw.pro">
-    <img src="./img/logo-red.svg" height="150">
+    <img src="./img/logo.svg" height="150">
     </a>
 </p>
 
