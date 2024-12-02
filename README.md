@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://mailw.pro">
-    <img src="./img/mailw-logo-dark" height="150">
+    <img src="[./img/mailw-logo-dark](https://mailw.pro/img/mailw-logo-dark.png)" height="150">
     </a>
 </p>
 
